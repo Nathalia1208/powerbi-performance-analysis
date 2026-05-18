@@ -1,0 +1,51 @@
+client_row_id,campaign_id,advertiser,region,manager
+1,1003,Rede Vitoria,Serrana,Raira
+2,1002,Faculdade Capixaba,Serrana,Raira
+3,1010,Supermercado Bom Preco,Grande Vitoria,Lucas
+4,1007,Supermercado Bom Preco,Norte,Eduardo
+5,1004,Turismo Capixaba,Serrana,Raira
+6,1001,Turismo Capixaba,Serrana,Raira
+7,1007,Turismo Capixaba,Grande Vitoria,Lucas
+8,1009,Loja Central,Serrana,Raira
+9,1004,Loja Central,Sul,Lucas
+10,1005,Auto Center ES,Norte,Eduardo
+11,1005,Farmacia Popular,Norte,Eduardo
+12,1002,Rede Vitoria,Sul,Lucas
+13,1010,Turismo Capixaba,Noroeste,Eduardo
+14,1002,Banco Litoral,Grande Vitoria,Lucas
+15,1009,Construtora Atlantica,Norte,Eduardo
+16,1006,Supermercado Bom Preco,Norte,Eduardo
+17,1006,Construtora Atlantica,Norte,Eduardo
+18,1008,Banco Litoral,Norte,Eduardo
+19,1010,Banco Litoral,Sul,Lucas
+20,1009,Construtora Atlantica,Grande Vitoria,Lucas
+21,1003,Construtora Atlantica,Grande Vitoria,Lucas
+22,1002,Banco Litoral,Grande Vitoria,Lucas
+23,1005,Construtora Atlantica,Norte,Eduardo
+24,1004,Loja Central,Serrana,Raira
+25,1005,Banco Litoral,Norte,Eduardo
+26,1005,Rede Vitoria,Noroeste,Eduardo
+27,1007,Construtora Atlantica,Grande Vitoria,Lucas
+28,1001,Loja Central,Grande Vitoria,Lucas
+29,1005,Faculdade Capixaba,Norte,Eduardo
+30,1009,Auto Center ES,Noroeste,Eduardo
+31,1001,Supermercado Bom Preco,Serrana,Raira
+32,1003,Banco Litoral,Grande Vitoria,Lucas
+33,1006,Turismo Capixaba,Grande Vitoria,Lucas
+34,1003,Auto Center ES,Serrana,Raira
+35,1001,Construtora Atlantica,Norte,Eduardo
+36,1001,Loja Central,Sul,Lucas
+37,1004,Supermercado Bom Preco,Norte,Eduardo
+38,1009,Auto Center ES,Sul,Lucas
+39,1003,Clinica Vida,Serrana,Raira
+40,1003,Auto Center ES,Norte,Eduardo
+41,1003,Loja Central,Grande Vitoria,Lucas
+42,1004,Construtora Atlantica,Noroeste,Eduardo
+43,1002,Auto Center ES,Norte,Eduardo
+44,1008,Clinica Vida,Grande Vitoria,Lucas
+45,1008,Loja Central,Norte,Eduardo
+46,1004,Clinica Vida,Sul,Lucas
+47,1004,Auto Center ES,Grande Vitoria,Lucas
+48,1005,Supermercado Bom Preco,Sul,Lucas
+49,1006,Banco Litoral,Sul,Lucas
+50,1009,Loja Central,Noroeste,Eduardo

@@ -1,0 +1,51 @@
+product_row_id,campaign_id,program,format,duration_sec
+1,1001,Jornal do Meio Dia,Display,30
+2,1010,Noticia Agora,30s,15
+3,1010,Arena 90,Display,45
+4,1007,Manha na Radio,Native,15
+5,1007,Manha na Radio,15s,45
+6,1001,Arena 90,30s,30
+7,1006,Arena 90,30s,45
+8,1010,Tarde Mix,30s,45
+9,1009,Noticia Agora,Video,45
+10,1007,Noticia Agora,Native,30
+11,1004,Arena 90,Video,30
+12,1010,Manha na Radio,Display,60
+13,1009,Bom Dia ES,Display,45
+14,1004,Arena 90,Native,45
+15,1008,Radar Regional,Video,30
+16,1009,Radar Regional,15s,15
+17,1005,Painel ES,Native,45
+18,1002,Conexao Rural,Display,30
+19,1004,Esporte Total,30s,15
+20,1004,Radar Regional,Native,15
+21,1008,Arena 90,Native,30
+22,1007,Radar Regional,Video,30
+23,1003,Bom Dia ES,30s,60
+24,1004,Esporte Total,Native,60
+25,1001,Painel ES,15s,15
+26,1008,Esporte Total,Video,45
+27,1008,Manha na Radio,Native,60
+28,1009,Radar Regional,15s,60
+29,1008,Noticia Agora,15s,45
+30,1009,Radar Regional,15s,45
+31,1008,Jornal do Meio Dia,Display,30
+32,1005,Tarde Mix,Display,15
+33,1003,Esporte Total,15s,60
+34,1003,Conexao Rural,30s,60
+35,1007,Tarde Mix,Native,60
+36,1007,Bom Dia ES,15s,60
+37,1007,Manha na Radio,30s,60
+38,1008,Bom Dia ES,Display,45
+39,1007,Arena 90,Native,30
+40,1008,Conexao Rural,Display,60
+41,1008,Bom Dia ES,Video,45
+42,1007,Esporte Total,Video,30
+43,1010,Painel ES,30s,60
+44,1010,Manha na Radio,30s,15
+45,1007,Esporte Total,Video,30
+46,1001,Noticia Agora,Video,45
+47,1004,Radar Regional,Display,45
+48,1007,Noticia Agora,Video,45
+49,1002,Radar Regional,30s,15
+50,1006,Conexao Rural,30s,15
