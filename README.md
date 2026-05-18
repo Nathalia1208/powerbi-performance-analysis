@@ -1,4 +1,4 @@
-<img width="956" height="536" alt="{970A9395-B2D0-4D28-81ED-026F8BCFCF4A}" src="https://github.com/user-attachments/assets/c91b9538-0b77-4888-af78-1a3119636827" /># powerbi-performance-analysis
+
 Dashboard de análise de performance publicitária utilizando Power BI, Power Query e modelagem dimensional.
 # Power BI - Análise de Performance Publicitária
 
